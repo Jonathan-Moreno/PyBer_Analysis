@@ -6,7 +6,7 @@ Analysis of ride sharing app data to show trends in ride data spanning over thre
 
 ## Results
 
-* Summary of results for data based on urban, suburban and rural city types:
+* Summary of results for data based on urban, suburban and rural city types
   *![Screen Shot 2022-02-07 at 2 58 43 PM](https://user-images.githubusercontent.com/96406929/152886590-63ff7c2e-1950-4c95-8763-86480bdc95cf.png)
 * Line chart displaying total fare by city type between the dates of 2019-01-01 through 2019-04-29
   *![PyBer_fare_summary](https://user-images.githubusercontent.com/96406929/152889297-663eab9f-6b15-4663-b958-3e566706e2bb.png)
